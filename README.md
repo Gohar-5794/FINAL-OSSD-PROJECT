@@ -6,6 +6,8 @@ It allows users to enter a city name and get real-time weather data. The app als
 
 ---
 
+
+
 ## ✅ Features
 
 - GUI created with Tkinter
@@ -16,6 +18,14 @@ It allows users to enter a city name and get real-time weather data. The app als
 - Multiple windows (3 modules/screens)
 
 ---
+
+
+//THIS IS THE SYNTAX FOR TKINTER to set geomerty
+/*
+    root = tk.Tk()
+    root.title("My Tkinter App") # Optional: Set window title
+    root.geometry("400x300") # Optional: Set window dimensions
+*/
 
 ## 🛠️ Technology Stack
 
