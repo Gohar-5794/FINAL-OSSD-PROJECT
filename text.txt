@@ -1,0 +1,3 @@
+root = tk.Tk()               # Create the main window
+root.title("My Window")      # Set window title
+root.geometry("400x300")     # Set window size (width x height)
